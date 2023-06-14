@@ -166,7 +166,7 @@ section .title::after{
 .home{
     display: flex;
     /* background: url("C:\\Users\\Admin\\Desktop\\Project6\\trb2.jpg") no-repeat center; */
-    background: url("../images/image1.jpg") no-repeat center;
+    background: url("image1.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
