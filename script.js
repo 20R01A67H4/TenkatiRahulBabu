@@ -35,8 +35,8 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["student at CMRIT","fictionist","cricket player"],
-        typeSpeed: 100,
+        strings: ["C","C++","Java","Python","HTML","CSS","Java Script","Bootstrap","Tailwind CSS","Angular","SQL"],
+        typeSpeed: 90,
         backSpeed: 60,
         loop: true
     });
